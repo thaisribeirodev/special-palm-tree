@@ -1,6 +1,0 @@
-frase 1
-frase 2
-
-frase alo :)
-
-frase alo de novo ! :)
